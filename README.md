@@ -12,3 +12,6 @@ This WebApp is used to manage files (eg. PDF) with user management.
 
 - [Node.js API](https://nodejs.org/dist/latest-v7.x/docs/api/)  
 - [MongoDB API](https://docs.mongodb.com/)
+
+**Some Question**
+- PDF File: normal file system or Gridfs？
